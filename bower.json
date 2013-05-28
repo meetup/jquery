@@ -1,0 +1,9 @@
+{
+    "name": "meetup-jquery",
+    "version": "1.0",
+    "description": "Meetup's jQuery fork for custom builds",
+    "main": [
+        "./dist/",
+    ],
+    "license": "MIT"
+}
