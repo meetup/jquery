@@ -1,7 +1,7 @@
 {
-    "name": "meetup-jquery",
+    "name": "jquery-m",
     "version": "1.0",
-    "description": "Meetup's jQuery fork for custom builds",
+    "description": "Meetup's custom build of jQuery 2.0, used on mobile",
     "main": [
         "./dist/",
     ],
