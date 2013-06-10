@@ -3,7 +3,7 @@
     "version": "1.0.0m",
     "description": "Meetup's custom build of jQuery 2.0, used on mobile",
     "main": [
-        "./dist/",
+        "./dist/"
     ],
     "license": "MIT"
 }
