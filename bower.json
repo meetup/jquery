@@ -1,7 +1,8 @@
 {
     "name": "jquery-m",
-    "version": "2.0.2mup",
+    "version": "2.0.3mup",
     "description": "Meetup custom build of jQuery 2.0, used on mobile",
-    "main": [ "./dist/custom/" ],
+    "main": [ "./dist/custom/jquery.js" ],
+    "ignore": [ "*" ],
     "license": "MIT"
 }
