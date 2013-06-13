@@ -1,8 +1,10 @@
 {
     "name": "jquery-m",
-    "version": "2.0.3mup",
+    "version": "2.0.4mup",
     "description": "Meetup custom build of jQuery 2.0, used on mobile",
     "main": [ "./dist/custom/jquery.js" ],
-    "ignore": [ "*" ],
+    "install" : {
+        "path" : "bower_test"
+    }
     "license": "MIT"
 }
