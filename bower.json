@@ -3,6 +3,6 @@
     "version": "2.0.0mup",
     "description": "Meetup custom build of jQuery 2.0, used on mobile",
     "main": [ "./dist/jquery.js", "./dist/jquery.min.js" ],
-    "ignore": [ "*.*", ".*", "build", "speed", "src", "test"],
+    "ignore": [ "*.*", ".*", "dist", "build", "speed", "src", "test"],
     "license": "MIT"
 }
